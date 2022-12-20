@@ -1,4 +1,13 @@
-# Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
+<h1>Hi There</h1> 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</div>
+
+---
+### :technologist: About me :
+- R&D Engineer @ Gantner Instruments GmbH
+- Studying Information and Computer Engineering (BSc) @ University of Technology in Graz 
+- Big fan of vim :stuck_out_tongue_winking_eye:
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -10,7 +19,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
 
-## :fire: My Stats :
+### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeonWandruschka&theme=github-dark-blue&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
