@@ -5,11 +5,13 @@
 </div>
 
 ---
+
 ### :technologist: About me :
 - R&D Engineer @ Gantner Instruments GmbH
 - Studying Information and Computer Engineering (BSc) @ University of Technology in Graz 
 - Big fan of vim :stuck_out_tongue_winking_eye:
 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -19,6 +21,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
+
+---
 
 ### :fire: My Stats :
 
