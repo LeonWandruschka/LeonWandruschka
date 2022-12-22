@@ -2,7 +2,9 @@
 <h1>Hi There
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h1>
-<img src"Banner.png" >
+</div>
+[Banner](Banner.png)
+<div align="center">
 <h3>You found my github so feel free to interact with it.</h3>
 </div>
 
