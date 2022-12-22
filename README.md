@@ -1,6 +1,8 @@
 <div align="center">
-<h1>Hi There
+<h1>
+HI THERE 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ I AM
 </h1>
 <img src="Banner.png" width="800" height="380" alt="Banner.png">
 <h3>You found my github so feel free to interact with it.</h3>
