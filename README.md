@@ -2,7 +2,7 @@
 <h1>Hi There
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h1>
-<img src="Banner.png" width="600" height="300" alt="Banner.png">
+<img src="Banner.png" width="800" height="400" alt="Banner.png">
 <h3>You found my github so feel free to interact with it.</h3>
 </div>
 
