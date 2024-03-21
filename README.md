@@ -4,7 +4,7 @@ HI THERE
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  I AM
 </h1>
-```zsh
+<pre style="font-family: 'Courier New', monospace; white-space: pre-wrap; word-wrap: break-word;">
 *******************************************************************************
 *                                                                             *
 *                                                                             *
@@ -24,7 +24,7 @@ HI THERE
 *                                                                             *
 *                                                                             *
 *******************************************************************************
-```
+</pre>
 <!---<img src="Banner.png" width="800" height="380" alt="Banner.png">--->
 <h3>You found my github so feel free to interact with it.</h3>
 </div>
