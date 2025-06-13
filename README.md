@@ -40,11 +40,14 @@ HI THERE
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="neovim" alt="neovim" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="Assets/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="Assets/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
+  <img src="Assets/neovim-original.svg" title="neovim" alt="neovim" width="40" height="40"/>&nbsp;
+  <img src="Assets/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="Assets/docker-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="Assets/python-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="Assets/systemverilog_icon.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="Assets/embeddedc-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
 
 ---
