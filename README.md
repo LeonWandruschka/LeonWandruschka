@@ -1,60 +1,80 @@
 <div align="center">
-<h1>
-HI THERE 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
- I AM
-</h1>
-<pre style="font-family: 'Courier New', monospace; white-space: pre-wrap; word-wrap: break-word;">
-*******************************************************************************
-*                                                                             *
-*                                                                             *
-*                           _     ___   ___   _  _                            *
-*                          | |   | __| / _ \ | \| |                           *
-*                          | |__ | _| | (_) || .  |                           *
-*                          |____||___| \___/ |_|\_|                           *
-*                                                                             *
-*                                                                             *
-*     __      __ ___  _  _  ___   ___  _   _  ___   ___  _  _  _  __ ___      *
-*     \ \    / //   \| \| ||   \ | _ \| | | |/ __| / __|| || || |/ //   \     *
-*      \ \/\/ / | - || .  || |) ||   /| |_| |\__ \| (__ | __ ||   < | - |     *
-*       \_/\_/  |_|_||_|\_||___/ |_|_\ \___/ |___/ \___||_||_||_|\_\|_|_|     *
-*                                                                             *
-*                                                                             *
-*                          R&D Engineer and student                           *
-*                                                                             *
-*                                                                             *
-*******************************************************************************
-</pre>
-<!---<img src="Banner.png" width="800" height="380" alt="Banner.png">--->
-<h3>You found my github so feel free to interact with it.</h3>
+
+```
+██╗     ███████╗ ██████╗ ███╗   ██╗ 
+██║     ██╔════╝██╔═══██╗████╗  ██║ 
+██║     █████╗  ██║   ██║██╔██╗ ██║ 
+██║     ██╔══╝  ██║   ██║██║╚██╗██║ 
+███████╗███████╗╚██████╔╝██║ ╚████║ 
+╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝ 
+```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Embedded+Engineer;Low-Level+Developer;Real+Time+Systems;RTL+Design;Neovim+Power+User;R%26D+Engineer+at+Gantner+Instruments" alt="Typing SVG" />
+
 </div>
 
 ---
 
-### :technologist: About me :
-- R&D Engineer @ Gantner Instruments GmbH
-- Studying Information and Computer Engineering (BSc) @ University of Technology in Graz 
-- Big fan of vim :stuck_out_tongue_winking_eye:
+```
+[BOOT] System identity established 
+[ OK ] Leon Wandruschka detected 
+[ OK ] R&D Engineer @ Gantner Instruments GmbH 
+[ OK ] Student @ TU Graz | BSc. Information & Computer Engineering 
+[ OK ] Operating mode: Embedded Systems / Low-Level Development 
+[ OK ] Favorite editor: Neovim 
+[ OK ] Code that works the first time — eventually. 
+```
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="Assets/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="Assets/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
-  <img src="Assets/neovim-original.svg" title="neovim" alt="neovim" width="40" height="40"/>&nbsp;
-  <img src="Assets/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="Assets/docker-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="Assets/python-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="Assets/systemverilog_icon.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="Assets/embeddedc-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-</div>
+```
+[INIT] Initializing language support...
+
+  > C              ▬▬▬▬▬▬▬▬▬▬▬▬▬  ✔
+  > C++            ▬▬▬▬▬▬▬▬▬▬▬▬▬  ✔
+  > Python         ▬▬▬▬▬▬▬▬▬▬▬▬▬  ✔
+  > SystemVerilog  ▬▬▬▬▬▬▬▬▬▬▬▬▬  ✔
+```
+
+```
+[INIT] Configuring toolchain...
+
+  > Neovim         ▬▬▬▬▬▬▬▬▬▬▬▬▬  ✔
+  > Git            ▬▬▬▬▬▬▬▬▬▬▬▬▬  ✔
+  > Docker         ▬▬▬▬▬▬▬▬▬▬▬▬▬  ✔
+  > GNU Make       ▬▬▬▬▬▬▬▬▬▬▬▬▬  ✔
+  > CMake          ▬▬▬▬▬▬▬▬▬▬▬▬▬  ✔
+```
+
+```
+[INIT] Enabling embedded targets...
+
+  > Embedded C     ▬▬▬▬▬▬▬▬▬▬▬▬▬  ✔
+  > RISC-V         ▬▬▬▬▬▬▬▬▬▬▬▬▬  ✔
+  > Verilator      ▬▬▬▬▬▬▬▬▬▬▬▬▬  ✔
+```
 
 ---
 
-### :fire: My Stats :
+```
+[INFO] Fetching GitHub statistics...
+```
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeonWandruschka&theme=github-dark-blue&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeonWandruschka\&theme=github-dark-blue\&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonWandruschka\&layout=compact\&theme=github_dark\&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonWandruschka&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+```
+[NETWORK] Establishing external contact interfaces...
+```
+
+* 📧 Email: `leon@.com` *(replace with your real one)*
+* 🡩‍💼 LinkedIn: [linkedin.com/in/leonwandruschka](https://linkedin.com/in/leonwandruschka)
+
+---
+
+```
+[SYSTEM] Boot complete.
+[READY] All systems operational. Awaiting user input...
+```
+ 
