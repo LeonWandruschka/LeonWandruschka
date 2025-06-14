@@ -69,7 +69,7 @@
 ```
 
 * 📧 Email: `leon.wandruschka@outlook.com`
-* 🡩‍💼 LinkedIn: [LinkedIn](www.linkedin.com/in/leon-wandruschka)
+* 🡩‍💼 LinkedIn: [www.linkedin.com/in/leon-wandruschka](www.linkedin.com/in/leon-wandruschka)
 
 ---
 
