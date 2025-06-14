@@ -68,7 +68,7 @@
 [NETWORK] Establishing external contact interfaces...
 ```
 
-* 📧 Email: `leon@.com` *(replace with your real one)*
+* 📧 Email: `leon.wandruschka@outlook.com`
 * 🡩‍💼 LinkedIn: [linkedin.com/in/leonwandruschka](https://linkedin.com/in/leonwandruschka)
 
 ---
