@@ -65,15 +65,6 @@
 ---
 
 ```
-[NETWORK] Establishing external contact interfaces...
-```
-
-* 📧 Email: `leon.wandruschka@outlook.com`
-* 🡩‍💼 LinkedIn: [www.linkedin.com/in/leon-wandruschka](www.linkedin.com/in/leon-wandruschka)
-
----
-
-```
 [SYSTEM] Boot complete.
 [READY] All systems operational. Awaiting user input...
 ```
