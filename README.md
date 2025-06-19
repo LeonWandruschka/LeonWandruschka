@@ -59,7 +59,7 @@
 [INFO] Fetching GitHub statistics...
 ```
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeonWandruschka\&theme=github-dark-blue\&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LeonWandruschka&theme=github-dark-blue)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonWandruschka\&layout=compact\&theme=github_dark\&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
