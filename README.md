@@ -16,7 +16,7 @@
 
 ```
 [BOOT] System identity established 
-[ OK ] Leon Wandruschka detected 
+[ OK ] Leon Wandruschka
 [ OK ] R&D Engineer @ Gantner Instruments GmbH 
 [ OK ] Student @ TU Graz | BSc. Information & Computer Engineering 
 [ OK ] Operating mode: Embedded Systems / Low-Level Development 
